@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/YuboC?template=classic&base.metadata=0&languages=1&stars=1&stars.limit=4&config.timezone=America%2FNew_York)
+![Metrics](https://metrics.lecoq.io/YuboC?template=classic&base.activity=0&base.community=0&base.metadata=0&isocalendar=1&languages=1&stars=1&languages.ignored=Jupyter%20Notebook&isocalendar.duration=full-year&stars.limit=4&config.timezone=America%2FNew_York)
