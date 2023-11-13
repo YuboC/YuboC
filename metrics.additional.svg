@@ -150,7 +150,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ByteByteGoHq/system-design-101</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.</div>
@@ -229,7 +229,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
