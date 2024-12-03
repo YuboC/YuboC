@@ -25,7 +25,7 @@
                     <rect mask="url(#languages-bar)" x="185.47345946675009" y="0" width="124.89159662177481" height="8" fill="#e16737"/>
                     <rect mask="url(#languages-bar)" x="310.3650560885249" y="0" width="47.431349309977705" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="357.7964053985026" y="0" width="35.04119471858168" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="392.83760011708426" y="0" width="28.914760938625463" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="392.83760011708426" y="0" width="28.914760938625463" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="421.75236105570974" y="0" width="25.010000947005025" height="8" fill="#c6538c"/>
                     <rect mask="url(#languages-bar)" x="446.7623620027148" y="0" width="10.054954988564198" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="456.817316991279" y="0" width="3.1826830087210554" height="8" fill="#198CE7"/>
@@ -59,7 +59,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 CSS
                             </div>
@@ -150,7 +150,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yangchris11/samurai</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"</div>
@@ -184,7 +184,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        48
+                                        49
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -235,7 +235,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
